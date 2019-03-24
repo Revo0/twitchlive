@@ -41,3 +41,6 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 });
   }
 });
+
+
+client.login('token');
